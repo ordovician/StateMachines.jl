@@ -1,0 +1,4 @@
+name = "StateMachines"
+uuid = "fdc1f210-8fb8-11e9-2dd6-bb42f126bee5"
+authors = ["Erik Engheim <erik.engheim@mac.com>"]
+version = "0.1.0"
